@@ -23,30 +23,53 @@ int main() {
 
 ** **
 
-## <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="40"> Languages, Frameworks & Technologies </img>
+## <img src="https://user-images.githubusercontent.com/70068533/151487809-05c3d7f3-9c2f-483e-9926-d0537d095072.gif" width="40"> Languages, Frameworks & Technologies </img>
 
 </br>
 
 **Main languages I have used**
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+### 💻 Tech Stack
 
-**Others**
+#### Languages
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java)
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=c%2B%2B&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=mysql)
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+#### Data & Machine Learning
+![PySpark](https://img.shields.io/badge/PySpark-000000?style=flat&logo=apache-spark)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=flat&logo=scikit-learn)
+![Hadoop](https://img.shields.io/badge/Hadoop-000000?style=flat&logo=apache-hadoop)
+![Airflow](https://img.shields.io/badge/Airflow-000000?style=flat&logo=apache-airflow)
+![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=snowflake)
+
+#### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
+![Golang](https://img.shields.io/badge/Go-000000?style=flat&logo=go)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/Angular-000000?style=flat&logo=angular)
+![jQuery](https://img.shields.io/badge/jQuery-000000?style=flat&logo=jquery&logoColor=0769AD)
+
+#### Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Azure-000000?style=flat&logo=microsoft-azure)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux)
+![Jira](https://img.shields.io/badge/Jira-000000?style=flat&logo=jira)
+
 
 ** **
 
