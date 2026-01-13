@@ -11,8 +11,8 @@
 #include <string>
 
 int main() {
-    std::cout << "🍃 I am a 4th-year COOP Computer Science student at Toronto Met :D" << std::endl;
-    std::cout << "✨ My experiences range from full-stack development to research" << std::endl;
+    std::cout << "🍃 I am a Data Engineer @ RBC :D" << std::endl;
+    std::cout << "✨ My experience spans software engineering, data engineering, and applied AI" << std::endl;
 
     std::string hobbies = "⚡ Growing plants, creating applications, and teaching";
     std::string currentProject = "🔭 Trying to create new applications with ML knowledge";
