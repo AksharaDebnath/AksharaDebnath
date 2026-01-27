@@ -20,12 +20,10 @@ jobs:
             # LIGHT: white canvas + visible grey grid + your greens
             dist/github-snake-light.gif?color_background=#ffffff&color_snake=#132a13&color_dots=#f2f2f2,#d9d9d9,#ecf39e,#90a955,#4f772d
             dist/github-snake-light.svg?color_snake=#132a13&color_dots=#f2f2f2,#d9d9d9,#ecf39e,#90a955,#4f772d
-
-            # DARK: dark canvas + subtle dark grid + your deeper greens
-            dist/github-snake-dark.gif?color_background=#0b0f1a&color_snake=#ecf39e&color_dots=#151b2c,#232a3a,#31572c,#4f772d,#90a955
-            dist/github-snake-dark.svg?color_snake=#ecf39e&color_dots=#151b2c,#232a3a,#31572c,#4f772d,#90a955
-
-
+            
+            # DARK: soft visible grid + green progression
+            dist/github-snake-dark.gif?color_background=#0b0f1a&color_snake=#ecf39e&color_dots=#2a2f3a,#3a4152,#31572c,#4f772d,#90a955
+            dist/github-snake-dark.svg?color_snake=#ecf39e&color_dots=#2a2f3a,#3a4152,#31572c,#4f772d,#90a955
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
