@@ -12,13 +12,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake (SVG + GIF)
+      - name: Generate brown snake
         uses: Platane/snk@v3
         with:
-          github_user_name: AksharaDebnath
+          github_user_name: YOUR_GITHUB_USERNAME
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
+        env:
+          SNAKE_COLOR: "#8B5A2B"          # brown snake
+          SNAKE_BACKGROUND: "#0b0f1a"     # dark background
+          SNAKE_DOT_COLOR: "#2a2a2a"      # empty grid
+          SNAKE_EATEN_DOT_COLOR: "#C19A6B" # light brown eaten squares
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
