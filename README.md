@@ -4,10 +4,26 @@
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=650&lines=Hi%2C+I%E2%80%99m+Akshara+%F0%9F%8D%80;Data+Engineer+%40+RBC;Software+%2B+Data+%2B+Applied+AI"
-  alt="Typing SVG"
-/>
+<picture>
+  <!-- Dark mode -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=650&lines=Hi%2C+I%E2%80%99m+Akshara+%F0%9F%8D%80;Data+Engineer+%40+RBC;Software+%2B+Data+%2B+Applied+AI"
+  />
+  <!-- Light mode (dark text) -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=132a13&center=true&vCenter=true&width=650&lines=Hi%2C+I%E2%80%99m+Akshara+%F0%9F%8D%80;Data+Engineer+%40+RBC;Software+%2B+Data+%2B+Applied+AI"
+  />
+  <!-- Fallback -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=650&lines=Hi%2C+I%E2%80%99m+Akshara+%F0%9F%8D%80;Data+Engineer+%40+RBC;Software+%2B+Data+%2B+Applied+AI"
+    alt="Typing SVG"
+  />
+</picture>
+
+
+<b></b>
 
 <div align="center"> 
   <a href="mailto:akshara.debnath06@gmail.com">
@@ -43,17 +59,29 @@ int main() {
 
 ## 🧰 Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,mysql,mongodb&perline=10&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres,kafka&perline=10&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=aws,azure,dynamodb,redis,linux&perline=10&theme=dark" />
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,docker,nodejs,react,angular&perline=10&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,postgres,sass,nextjs&mongodb=10&theme=dark" />
+<b></b>
+<b></b>
 
-  </a>
-</p>
+<div align="center">
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="
+https://skillicons.dev/icons?i=py,java,c,mysql,mongodb,pytorch,tensorflow,sklearn,postgres,kafka,aws,azure,dynamodb,redis,linux,fastapi,docker,nodejs,react,angular,git,kubernetes,sass,nextjs,arduino,aws,azure,bash&perline=14&theme=dark
+  " />
+
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" srcset="
+https://skillicons.dev/icons?i=py,java,c,mysql,mongodb,pytorch,tensorflow,sklearn,postgres,kafka,aws,azure,dynamodb,redis,linux,fastapi,docker,nodejs,react,angular,git,kubernetes,sass,nextjs,arduino,aws,azure,bash&perline=14&theme=light
+  " />
+
+  <!-- Fallback -->
+  <img
+    src="https://skillicons.dev/icons?i=py,java,c,mysql,mongodb,pytorch,tensorflow,sklearn,postgres,kafka,aws,azure,dynamodb,redis,linux,fastapi,docker,nodejs,react,angular,git,kubernetes,sass,nextjs,arduino,aws,azure,bash&perline=14&theme=dark"
+    alt="Skills"
+  />
+</picture>
+</div>
+
 
 ---
 
