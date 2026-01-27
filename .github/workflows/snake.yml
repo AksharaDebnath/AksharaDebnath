@@ -12,14 +12,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake (brown)
+      - name: Generate green snake
         uses: Platane/snk@v3
         with:
-          # safest: uses the repo owner automatically
+          # this always resolves correctly to your username
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.gif?color_snake=#8B5A2B&color_dots=#0b0f1a,#2a2a2a,#6b4f2a,#a6753a,#d2a679
-            dist/github-contribution-grid-snake.svg?color_snake=#8B5A2B&color_dots=#0b0f1a,#2a2a2a,#6b4f2a,#a6753a,#d2a679
+            dist/github-contribution-grid-snake.gif?color_snake=#2ecc71&color_dots=#f5f5f5,#dcdcdc,#a8e6a1,#5fd068,#2ecc71
+            dist/github-contribution-grid-snake.svg?color_snake=#2ecc71&color_dots=#f5f5f5,#dcdcdc,#a8e6a1,#5fd068,#2ecc71
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
