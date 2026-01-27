@@ -41,7 +41,7 @@
 
 ---
 
-## ✨ About me
+## ✨ About me 🐻
 
 ```cpp
 #include <iostream>
