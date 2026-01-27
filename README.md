@@ -1,92 +1,67 @@
-# Hello, nice to meet you
+<!-- =========================================
+     GitHub Profile README — Akshara Debnath
+     ========================================= -->
 
-![banner](https://github.com/akshxrx/akshxrx/assets/70068533/5224edfe-59fd-4f97-8880-9b1a1b1232a1)
+<div align="center">
 
-** **
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=650&lines=Hi%2C+I%E2%80%99m+Akshara+%F0%9F%8D%80;Data+Engineer+%40+RBC;Software+%2B+Data+%2B+Applied+AI"
+  alt="Typing SVG"
+/>
 
-## <img src="https://user-images.githubusercontent.com/70068533/151487809-05c3d7f3-9c2f-483e-9926-d0537d095072.gif" width="40"> A little about me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<div align="center"> 
+  <a href="mailto:akshara.debnath06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-4f772d?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/akshara-debnath/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-3a5a40?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="[https://salesp07.github.io](https://akshara-debnath.netlify.app/)" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-90a955?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-```c++
+</div>
+
+---
+
+## ✨ About me
+
+```cpp
 #include <iostream>
-#include <string>
 
 int main() {
-    std::cout << "🍃 I am a Data Engineer @ RBC :D" << std::endl;
-    std::cout << "✨ My experience spans software engineering, data engineering, and applied AI" << std::endl;
-
-    std::string hobbies = "⚡ Growing plants, creating applications, and teaching";
-    std::string currentProject = "🔭 Trying to create new applications with ML knowledge";
-
-    return 0;
+  std::cout << "🍃 Data Engineer @ RBC\n";
+  std::cout << "✨ Software Engineering • Data Engineering • Applied AI\n";
+  std::cout << "🔭 Building applications with ML + strong data foundations\n";
+  std::cout << "⚡ Hobbies: growing plants, creating apps, teaching\n";
+  return 0;
 }
 ```
 
-** **
+---
 
-## <img src="https://user-images.githubusercontent.com/70068533/151487809-05c3d7f3-9c2f-483e-9926-d0537d095072.gif" width="40"> Languages, Frameworks & Technologies </img>
+## 🧰 Skills
 
-</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,mysql,mongodb&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres,kafka&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,dynamodb,redis,linux&perline=10&theme=dark" />
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,docker,nodejs,react,angular&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,postgres,sass,nextjs&mongodb=10&theme=dark" />
 
-**Main languages I have used**
-
-### 💻 Tech Stack
-
-#### Languages
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java)
-![C](https://img.shields.io/badge/C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=c%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=mysql)
-
-#### Data & Machine Learning
-![PySpark](https://img.shields.io/badge/PySpark-000000?style=flat&logo=apache-spark)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=flat&logo=scikit-learn)
-![Hadoop](https://img.shields.io/badge/Hadoop-000000?style=flat&logo=apache-hadoop)
-![Airflow](https://img.shields.io/badge/Airflow-000000?style=flat&logo=apache-airflow)
-![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=snowflake)
-
-#### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
-![Golang](https://img.shields.io/badge/Go-000000?style=flat&logo=go)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
-
-#### Frontend
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/Angular-000000?style=flat&logo=angular)
-![jQuery](https://img.shields.io/badge/jQuery-000000?style=flat&logo=jquery&logoColor=0769AD)
-
-#### Cloud, DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/Azure-000000?style=flat&logo=microsoft-azure)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux)
-![Jira](https://img.shields.io/badge/Jira-000000?style=flat&logo=jira)
-
-
-** **
-
-<h2> Let's connect and chat! 
-  <a href="https://www.linkedin.com/in/akshara-debnath/">
-    <img align="left" width="45px" alt="Akshara Debnath | Linkedin" src="https://github.com/akshxrx/akshxrx/assets/70068533/6f640854-c3d4-434f-bef2-cc1d00b54762" />
   </a>
-  <a href="">
-    <img align="left" alt="Akshara Debnath | Website" width="39px" src="https://github.com/akshxrx/akshxrx/assets/70068533/ac1754f1-5d3d-48e0-9e42-8e5e012f46eb" />
-  </a>
-  <a href="mailto:akshara.debnath@ryerson.ca">
-    <img align="left" alt="Akshara Debnath | Gmail" width="41px" src="https://github.com/akshxrx/akshxrx/assets/70068533/0f6055f0-911b-499d-b297-90f606a64de6" />
-  </a>
-</h2> 
-</br>
-  
-  ⭐️ Star repositories you find interesting!
-  **❤️ From [Akshara Debnath](https://github.com/akshxrx)**
-  
+</p>
 
+---
+
+## 🐍 Arcade
+<div align="center">
+<p align="center"> <img src="https://raw.githubusercontent.com/akshxrx/akshxrx/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p> 
+
+
+⭐️ Star repos you find interesting!
+❤️ From Akshara Debnath
+</div>
