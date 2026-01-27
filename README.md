@@ -71,16 +71,3 @@ int main() {
 
 
 ---
-
-## 🎮 Play a Mini Game
-
-<p align="center">
-  <a href="https://YOUR_GITHUB_USERNAME.github.io/arcade/" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY%20NOW-15ffb2?style=for-the-badge&logo=github&logoColor=000000" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Tip: Open on desktop for best controls.</sub>
-</p>
-
