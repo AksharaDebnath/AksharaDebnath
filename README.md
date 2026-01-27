@@ -57,7 +57,7 @@ int main() {
 
 ---
 
-## 🐍 Arcade
+## 🐍 Contributions
 <div align="center">
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshxrx/akshxrx/output/github-contribution-grid-snake.gif" alt="snake animation" />
