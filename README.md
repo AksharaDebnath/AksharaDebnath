@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/akshara-debnath/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-3a5a40?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="[https://akshara-debnath.netlify.app/](https://akshara-debnath.netlify.app/)" target="_blank">
+  <a href="https://akshara-debnath.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-90a955?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
