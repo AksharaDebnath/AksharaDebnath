@@ -47,7 +47,7 @@
 #include <iostream>
 
 int main() {
-  std::cout << "🍃 Data Modeller @ RBC\n";
+  std::cout << "🍃 Data Engineer/ Financial Modelling @ RBC\n";
   std::cout << "✨ Software Engineering • Data Engineering • Applied AI\n";
   std::cout << "🔭 Building applications with ML + strong data foundations\n";
   std::cout << "⚡ Hobbies: growing plants, creating apps, teaching\n";
